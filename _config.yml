@@ -10,7 +10,7 @@ relative_permalinks: true
 title:            My Portfolio
 tagline:          ''
 description:      'My online portfolio, Made by Layne Brown.'
-url:              http://Layne-brown.github.io
+url:              https://Layne-brown.github.io
 baseurl:          /
 
 author:
